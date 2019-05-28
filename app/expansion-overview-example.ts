@@ -10,7 +10,6 @@ import {Component} from '@angular/core';
 })
 export class ExpansionOverviewExample {
   panelOpenCount = 0;
-  panelOpenState = false;
   openPanel = -1;
 
 
